@@ -1,0 +1,29 @@
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\bin\Debug\BD_4.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4.g.resources
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\bin\Debug\BD_4.exe
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\bin\Debug\BD_4.pdb
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4.exe
+c:\users\asus\documents\visual studio 2013\Projects\BD_4\BD_4\obj\Debug\BD_4.pdb
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\bin\Debug\BD_4.exe.config
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4.exe
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4.pdb
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\bin\Debug\BD_4.exe
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\bin\Debug\BD_4.pdb
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\MainWindow.baml
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\MainWindow.g.cs
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\App.g.cs
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4_MarkupCompile.cache
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4.g.resources
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4.Properties.Resources.resources
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\BD_4\BD_4\obj\Debug\BD_4.csproj.GenerateResource.Cache
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\LR5_BD\BD_4\bin\Debug\BD_4.exe.config
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\LR5_BD\BD_4\obj\Debug\BD_4.exe
+C:\Users\Mary\Desktop\Предмети на екзамени\Бази даних\LR5_BD\BD_4\obj\Debug\BD_4.pdb
